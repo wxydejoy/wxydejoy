@@ -8,6 +8,8 @@ You can get more information  [here](https://c.undf.top)
 
 Here are some repos to get you started:
 
+<img src="https://user-images.githubusercontent.com/81625961/147847145-e01a6c89-a917-4495-96d0-c94f0aadcc3b.gif" alt="140" style="zoom:50%;" />
+
 ### Machine(C & C++)
 
    平面三杆机械臂模拟 [DrawPath](https://github.com/wxydejoy/DrawPath)
@@ -38,6 +40,6 @@ Here are some repos to get you started:
  
  Oh, I almost forgot to tell you that my major is mechanical engineering and intelligent manufacturing
  
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![140](https://user-images.githubusercontent.com/81625961/147847145-e01a6c89-a917-4495-96d0-c94f0aadcc3b.gif)
 
