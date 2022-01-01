@@ -8,13 +8,12 @@ You can get more information  [here](https://c.undf.top)
 
 Here are some repos to get you started:
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxydejoy&langs_count=10&layout=compact)
 
 ### Machine(C & C++)
 
    平面三杆机械臂模拟 [DrawPath](https://github.com/wxydejoy/DrawPath)
-   <img src="https://user-images.githubusercontent.com/81625961/147847145-e01a6c89-a917-4495-96d0-c94f0aadcc3b.gif" style="zoom:20%;" height="300"  />
+   
 
    
    智能路边喷淋系统 [EMC](https://github.com/wxydejoy/EMC)
@@ -43,3 +42,4 @@ Here are some repos to get you started:
  
  Oh, I almost forgot to tell you that my major is mechanical engineering and intelligent manufacturing
  
+ <img src="https://user-images.githubusercontent.com/81625961/147847145-e01a6c89-a917-4495-96d0-c94f0aadcc3b.gif"  />
