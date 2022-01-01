@@ -30,5 +30,5 @@ Here are some repos to get you started:
 
 ### Notes
    [doc-page](https://github.com/wxydejoy/doc-page)
+![140939535-28d7d479-9af8-4ee8-8f8e-ade1296b8e76](https://user-images.githubusercontent.com/81625961/147847145-e01a6c89-a917-4495-96d0-c94f0aadcc3b.gif)
 
-![image](https://user-images.githubusercontent.com/81625961/147847117-9bfd11e5-21c8-4f69-9af2-59511a2cc1b7.png)
