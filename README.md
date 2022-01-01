@@ -8,7 +8,7 @@ You can get more information  [here](https://c.undf.top)
 
 Here are some repos to get you started:
 
-<img src="https://user-images.githubusercontent.com/81625961/147847145-e01a6c89-a917-4495-96d0-c94f0aadcc3b.gif" alt="140" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/81625961/147847145-e01a6c89-a917-4495-96d0-c94f0aadcc3b.gif" alt="140" style="zoom:20%;" />
 
 ### Machine(C & C++)
 
