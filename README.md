@@ -22,4 +22,4 @@ Here are some repos to get you started:
 
  <img src="https://user-images.githubusercontent.com/81625961/147847145-e01a6c89-a917-4495-96d0-c94f0aadcc3b.gif"  />
 
-<iframe id="model" src="http://ts.undf.top/3d/bysj.html" scrolling="no" onload="height = window.innerHeight/2;width = window.innerWidth/3;" frameborder="0"></iframe>
+<iframe id="model" src="bysj.html" scrolling="no" onload="height = window.innerHeight/2;width = window.innerWidth/3;" frameborder="0"></iframe>
