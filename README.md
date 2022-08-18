@@ -6,9 +6,9 @@ As you can see code is my joy
 
 You can get more information  [here](https://c.undf.top)
 
-Here are some repos to get you started:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxydejoy&langs_count=10&layout=compact)
+
+
 
 ![power](https://user-images.githubusercontent.com/81625961/185432794-f80020d0-6337-4664-8e37-27e03a558520.png)
 
