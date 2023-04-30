@@ -10,7 +10,7 @@ You can get more information  [here](https://c.undf.top)
 
 
 [![image](https://user-images.githubusercontent.com/81625961/235354361-27a9902d-a90a-4210-972c-6bc93ee25046.png)
-](https://www.52pojie.cn/home.php?mod=space&uid=1189351)
+](https://www.52pojie.cn/?1189351)   [出类拔萃](https://www.52pojie.cn/?1189351)
 
 ![power](https://user-images.githubusercontent.com/81625961/185432794-f80020d0-6337-4664-8e37-27e03a558520.png)
 
