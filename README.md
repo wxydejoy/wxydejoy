@@ -4,7 +4,7 @@ Here is wxydejoy
 
 As you can see code is my joy
 
-You can get more information  [here](https://c.undf.top)
+You can get more information  [BLOG](https://c.undf.top)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxydejoy)](https://github.com/wxydejoy)
 
